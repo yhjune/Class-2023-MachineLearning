@@ -18,8 +18,6 @@
 ├── git_commit.ipynb
 ├── gradient_boost
 │   ├── gradientBoost_closed_multi_class.ipynb
-│   ├── Gradient_Boosting_mon.ipynb
-│   ├── Gradient_Boosting_unmon.ipynb
 │   ├── gradientBoost_open_binary.ipynb
 │   └── gradientBoost_open_multi_class.ipynb
 ├── random_forest
@@ -36,9 +34,9 @@
 ```
 
 ## HOW TO USE
-1. Downlod the project
-2. Run the models with the file name: `*_closed_multi_class.ipynb`, `*_open_binary.ipynb`, `*_open_multi_class.ipynb`
-3. Before running the models, check the file path with the load pickle data(`mon2.pkl` and `unmon2.pkl` in `data`) in the model
+1. Downlod the project into your Google Drive. Note that the project should be in the `GitHub` folder.
+3. Run the models with the file name: `*_closed_multi_class.ipynb`, `*_open_binary.ipynb`, `*_open_multi_class.ipynb`
+4. Before running the models, check the file path with the load pickle data(`mon2.pkl` and `unmon2.pkl` in `data`) in the model
    ```python
    with open('/content/drive/MyDrive/GitHub/Website-Fingerprinting/data/mon2.pkl', 'rb') as file:
     df_m= pickle.load(file)
@@ -54,8 +52,8 @@
    ├──└── readme.md
     ...
    ```
-  4. After chaning the path, Run the code step by step from the top.
-  5. Get Results as below
+  5. After chaning the path, Run the code step by step from the top.
+  7. Get 9 Results as below
     
 ### Sample Result : randomFroest_open_multi_class.ipynb
 1. Checking the file path with the load pickle data
