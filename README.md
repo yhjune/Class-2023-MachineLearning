@@ -3,6 +3,8 @@
 
 ## Contributors
 
+
+
 ## Folder Structure
 ```os
 .
@@ -63,15 +65,13 @@
 <img width="354" alt="image" src="https://github.com/yhjune/Website-Fingerprinting/assets/77730511/b33c6792-f3e6-41cf-ac47-0c22a319ee7c">
 
 ## Model Background
-### Closed Multi Class
+In monitored data, all the samples are classified with (0~49), but the unmonitored samples are labeled with -1. 
 
-### Open Binary
-
-### Open Multi Class
-
-
-
-
+|case|classification|Devide train & test set|
+|-|-|-|
+|Closed Multi Class|classifiyed the multi claesses|in the monitored data|
+|Open Binary|classifiyed the Binary|set all the labels `1` in monitored data <br>in the monitored&unmonitored data|
+|Open Multi Class |classifiyed the multi claesses|in the monitored&unmonitored data|
 
 ## Data Pipe Line
 you can run the model using the datas in `data`, but here's some more detailed pipe line from the origianl datas in case you need to modify the datas.
