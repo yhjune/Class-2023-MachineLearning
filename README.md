@@ -2,8 +2,32 @@
 2023-2 Machine Learning project
 
 ## Contributors
-
-
+<table border="1" cellspacing="0" cellpadding="0" width="90%">
+    <tr width="100%">
+        <td width="15%" align="center"><a href= "https://github.com/yhjune">윤효정</a></td>
+        <td width="15%" align="center"><a href= "https://github.com/spig0126">정연희</a></td>
+        <td width="15%" align="center"><a href= "https://github.com/geeoneee">김지원</a></td>
+        <td width="15%" align="center"><a href= "https://github.com/hehehe9986"></a>이다예</td>
+        <td width="15%" align="center"><a href= "https://github.com/emily9949">황수민</a></td>
+        <td width="15%" align="center"><a href= "https://github.com/justamoment">안건희</a></td>
+    </tr>
+    <tr width="100%">
+        <td width="15%" align="center"><img src = "https://github.com/yhjune.png"></td>
+        <td width="15%" align="center"><img src = "https://github.com/spig0126.png"/></td>
+        <td width="15%" align="center"><img src = "https://github.com/geeoneee.png"/></td>
+        <td width="15%" align="center"><img src = "https://github.com/hehehe9986.png"></td>
+        <td width="15%" align="center"><img src = "https://github.com/emily9949.png"/></td>
+        <td width="15%" align="center"><img src = "https://github.com/justamoment.png"/></td>
+    </tr>
+    <tr width="100%">
+        <td width="15%" align="center">github, data pre processing </td>
+        <td width="15%" align="center">SVM </td>
+        <td width="15%" align="center">Gradient Boost</td>
+        <td width="15%" align="center">Random Forest</td>
+        <td width="15%" align="center">Result and Presentation </td>
+        <td width="15%" align="center">Result and Presentation</td>
+   </tr>
+</table>
 
 ## Folder Structure
 ```os
@@ -72,7 +96,7 @@ In monitored data, all the samples are classified with (0~49), but the unmonitor
 |Open Multi Class |classifiyed the multi claesses|in the monitored&unmonitored data|
 
 ## Data Pipe Line
-you can run the model using the datas in `data`, but here's some more detailed pipe line from the origianl datas in case you need to modify the datas.
+you can run the model using the datas in `data`, but here's some more detailed pipe line from the origianl datas in case you need to modify them.
 
 **Order : original data -> `store_*_pickle.ipynb` -> `feature_extraction_*.py` -> result data**
 
