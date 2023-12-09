@@ -9,7 +9,7 @@
         <td width="15%" align="center"><a href= "https://github.com/geeoneee">김지원</a></td>
         <td width="15%" align="center"><a href= "https://github.com/hehehe9986"></a>이다예</td>
         <td width="15%" align="center"><a href= "https://github.com/emily9949">황수민</a></td>
-        <td width="15%" align="center"><a href= "https://github.com/justamoment">안건희</a></td>
+        <td width="15%" align="center"><a href= "https://github.com/GeonHeeAhn">안건희</a></td>
     </tr>
     <tr width="100%">
         <td width="15%" align="center"><img src = "https://github.com/yhjune.png"></td>
@@ -17,7 +17,7 @@
         <td width="15%" align="center"><img src = "https://github.com/geeoneee.png"/></td>
         <td width="15%" align="center"><img src = "https://github.com/hehehe9986.png"></td>
         <td width="15%" align="center"><img src = "https://github.com/emily9949.png"/></td>
-        <td width="15%" align="center"><img src = "https://github.com/justamoment.png"/></td>
+        <td width="15%" align="center"><img src = "https://github.com/GeonHeeAhn.png"/></td>
     </tr>
     <tr width="100%">
         <td width="15%" align="center">github, data pre processing </td>
